@@ -1,0 +1,37 @@
+{
+  "name": "npm-link-manager",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Manage npm link relationships across local packages — track, detect stale links, simplify monorepo dev",
+  "bin": {
+    "npm-link-manager": "./index.js",
+    "nlm": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "npm",
+    "link",
+    "monorepo",
+    "packages"
+  ],
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/npm-link-manager"
+  },
+  "bugs": {
+    "url": "https://github.com/NickCirv/npm-link-manager/issues"
+  },
+  "homepage": "https://github.com/NickCirv/npm-link-manager#readme"
+}
