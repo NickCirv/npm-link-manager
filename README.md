@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # npm-link-manager
 
 **Zero-dependency CLI for managing npm link relationships across local packages.**
